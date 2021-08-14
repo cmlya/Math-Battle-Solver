@@ -2,8 +2,7 @@ import time
 
 import cv2
 import pyautogui
-from python_imagesearch.imagesearch import imagesearcharea
-
+from imagesearch import imagesearch_v2, imagesearcharea
 from colors import Colors
 
 from statistics import mean
